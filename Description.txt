@@ -1,0 +1,9 @@
+This is a simple Library System project developed in c# winforms with EF Code First where i pretend to demostrate how to implement:
+-Repository pattern
+-Singleton Pattern
+-Fluent Api (with Entity.ModelConfiguration)
+-Reporting (report viewer)
+Good practice as:
+-SOLID principles
+-segregation interfaces 
+-etc...
